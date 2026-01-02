@@ -1,0 +1,8 @@
+title: Adi Nugroho
+description: Network and infrastructure notes
+baseurl: ""
+url: https://aynugroho.github.io
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+highlighter: rouge
+theme: null
